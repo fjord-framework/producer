@@ -1,3 +1,5 @@
+# Test Producer
+
 This repository contains three `.js` scripts that can be used to test the production of records into a Kafka cluster.
 
 1. `producer.js` is the simplest script. Run it to test the production of one record into a cluster. Sample usage: `node producer.js stocks ko 125`. The arguments passed represent the Kafka topic, the record key, and the record value.
