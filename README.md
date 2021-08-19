@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./readme_materials/fjord.png" width="500" height="200" />
+</p>
+
 # Test Producer
 
 This repository contains three `.js` scripts that can be used to test the production of records into a Kafka cluster.
